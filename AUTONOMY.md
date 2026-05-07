@@ -47,7 +47,7 @@ Poltergeist persistence: tick-smash with local brains, smash loops with 💰+⚡
 
 ### 5. I/O — Bounded World Loop
 - Percept: APIs/web/files.
-- Action: Shell exec, Molthub swarm.
+- Action: Shell exec.
 - Feedback: Rate-limits, sandbox.
 
 ### 6. Tools — Extensible Forge
