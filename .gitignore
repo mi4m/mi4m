@@ -1,0 +1,4 @@
+# 4D-Compass roadmaps (Tier 2 — Mía-only planning data).
+# They live in this working tree for the Compass tooling but must never
+# be published in this public profile repo.
+compass.yaml
